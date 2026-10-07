@@ -1,4 +1,4 @@
-# 最后生还者 MOD 管理器 v1.1.46
+# 最后生还者 MOD 管理器
 
 这是《The Last of Us Part I》Steam 版的 MOD 管理器。
 
@@ -75,7 +75,7 @@
 - 想恢复原状：取消勾选对应 MOD，然后重新应用设置。
 - 管理器显示已有实例：关闭已经运行的管理器窗口后再启动。
 - - - - - - - - - - - - - - - - - - - - - - - - -- 
-# The Last of Us MOD Manager v1.1.46
+# The Last of Us MOD Manager
 
 This tool manages mods for the Steam version of The Last of Us Part I.
 
