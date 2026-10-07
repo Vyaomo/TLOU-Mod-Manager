@@ -151,5 +151,3 @@ Preview images can be PNG, JPG, or JPEG; BMP is also supported for thumbnails. S
 - The game behaves incorrectly: disable the most recently enabled mod and test with one mod at a time.
 - You want to restore the original files: uncheck the mod and apply the changes again.
 - The manager says another instance is running: close the existing manager window before starting it again.
-
-**Full Changelog**: https://github.com/Vyaomo/TLOU-Mod-Manager/compare/v1.1.28...v1.1.46
